@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Monitoreo de Glucosa</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="contraseña">123</string>
+    <string name="acceso">Accesar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="guardar">Guardar</string>
+
+    <string name="paciente">Paciente</string>
+    <string name="medico">Médico</string>
+
+    <string name="nom">Nombre</string>
+    <string name="dir">Dirección</string>
+    <string name="tel">Teléfono</string>
+    <string name="pes">Peso</string>
+    <string name="est">Estatura</string>
+    <string name="gen">Género</string>
+    <string name="edad">Edad</string>
+    <string name="log">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="email">Correo Electrónico</string>
+
+
+    <string name="niveles">Nivel de glucosa\n(mg/dL)</string>
+    <string name="ayunas">Antes de comer</string>
+    <string name="despues">Después de comer</string>
+
+    <string name="tel_doc">2223581171</string>
+
+</resources>
